@@ -1,0 +1,1 @@
+We are going to be making an website with pure HTML. I will be demonstrating my skills in HTML and Git in this project
